@@ -1,4 +1,11 @@
-Hasty-boilerplate
+Hasty boilerplate
 =================
 
-quick boilerplate launch through the terminal
+How to use it
+-----------------
+
+```bash
+
+./hasty.sh project_name
+
+```
